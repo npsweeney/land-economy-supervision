@@ -1,0 +1,16 @@
+---
+title: "My research question"
+author: "Your name"
+---
+
+## Question
+
+<!-- Replace the title and author with your own details. -->
+
+## Evidence
+
+<!-- Add a chart, map or table here. -->
+
+## Interpretation
+
+## Sources

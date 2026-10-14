@@ -1,0 +1,7 @@
+project:
+  type: website
+  render:
+    - index.qmd
+format:
+  html:
+    toc: true
